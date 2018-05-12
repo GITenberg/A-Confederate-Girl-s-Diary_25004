@@ -1,0 +1,31 @@
+_repo: A-Confederate-Girl-s-Diary_25004
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25004-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dawson, Sarah Morgan
+    birthdate: 1842
+    deathdate: 1909
+    gutenberg_agent_id: '28328'
+    url: http://www.gutenberg.org/2009/agents/28328
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Louisiana -- Diaries'
+- !lcsh 'Louisiana -- History -- Civil War, 1861-1865'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+- !lcsh 'Dawson, Sarah Morgan, 1842-1909 -- Diaries'
+title: A Confederate Girl's Diary
+url: http://www.gutenberg.org/ebooks/25004
